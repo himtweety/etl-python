@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # selenium webdriver python modules
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options

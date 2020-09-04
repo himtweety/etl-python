@@ -1,0 +1,5 @@
+MONGO_USER="user"
+MONGO_PASS="pass"
+MONGO_HOST="localhost"
+MONGO_DB="optima_db"
+            
