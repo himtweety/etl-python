@@ -37,18 +37,22 @@ if __name__ == '__main__':
             "mongodb+srv://" + mongouser + ":" + mongopass + "@" + mongohost + "/" + mongodb + "?retryWrites=true&w=majority")
         mydb = myclient.optima_db
         settingcol = mydb.settings
+
+        # fetch url location that is required to be crawled from mongo db settings table
         myquery = {"name": "url"}
         result = settingcol.find(myquery)
         for x in result:
             SCRAPE_URL = x["value"]
         log.info(SCRAPE_URL)
-        # i have kept a crawl setting in db to controll minimum seconds duration between crawls
+        # crawl setting in db to control minimum duration in seconds between crawls
+        # for now i have set it as 60 seconds and can be increased when required
         myquery = {"name": "crawlafterseconds"}
         result = settingcol.find(myquery)
         for x in result:
             minwaitbetweencrawl = x["value"]
         log.info(minwaitbetweencrawl)
 
+        # last crawl time in db to check when was dat last crawled
         lastcrawledquery = {"name": "last_crawled"}
         result = settingcol.find(lastcrawledquery)
         for x in result:
