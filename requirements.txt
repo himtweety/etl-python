@@ -1,0 +1,5 @@
+selenium
+pymongo
+dnspython
+beautifulsoup4
+environs

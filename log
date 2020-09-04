@@ -1,0 +1,520 @@
+12:31:06,960 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+12:31:07,75 items INFO delete exsting record
+12:31:07,75 items INFO {'productName': 'Disposable Gloves', 'availability': 64961093}
+12:31:07,175 items INFO delete exsting record
+12:31:07,205 items INFO delete exsting record
+12:31:07,205 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+12:31:07,298 items INFO delete exsting record
+12:31:07,328 items INFO delete exsting record
+12:31:07,358 items INFO delete exsting record
+12:31:07,359 items INFO {'productName': 'Respirators', 'availability': 22189273}
+12:31:07,455 items INFO delete exsting record
+12:31:07,485 items INFO delete exsting record
+12:31:07,515 items INFO delete exsting record
+12:31:07,545 items INFO delete exsting record
+12:31:07,545 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+12:31:07,638 items INFO delete exsting record
+12:31:07,668 items INFO delete exsting record
+12:31:07,698 items INFO delete exsting record
+12:31:07,728 items INFO delete exsting record
+12:31:07,758 items INFO delete exsting record
+12:31:07,758 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+12:31:07,853 items INFO delete exsting record
+12:31:07,884 items INFO delete exsting record
+12:31:07,915 items INFO delete exsting record
+12:31:07,945 items INFO delete exsting record
+12:31:07,975 items INFO delete exsting record
+12:31:08,5 items INFO delete exsting record
+12:31:08,5 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+12:31:08,103 items INFO delete exsting record
+12:31:08,133 items INFO delete exsting record
+12:31:08,162 items INFO delete exsting record
+12:31:08,192 items INFO delete exsting record
+12:31:08,223 items INFO delete exsting record
+12:31:08,253 items INFO delete exsting record
+12:31:08,283 items INFO delete exsting record
+12:31:08,283 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+12:31:08,375 items INFO delete exsting record
+12:31:08,404 items INFO delete exsting record
+12:31:08,433 items INFO delete exsting record
+12:31:08,463 items INFO delete exsting record
+12:31:08,493 items INFO delete exsting record
+12:31:08,525 items INFO delete exsting record
+12:31:08,555 items INFO delete exsting record
+12:31:08,585 items INFO delete exsting record
+12:31:08,586 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+12:31:08,679 items INFO delete exsting record
+12:31:08,709 items INFO delete exsting record
+12:31:08,739 items INFO delete exsting record
+12:31:08,777 items INFO delete exsting record
+12:31:08,807 items INFO delete exsting record
+12:31:08,838 items INFO delete exsting record
+12:31:08,868 items INFO delete exsting record
+12:31:08,898 items INFO delete exsting record
+12:31:08,929 items INFO delete exsting record
+12:31:08,929 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+12:31:09,22 items INFO delete exsting record
+12:31:09,52 items INFO delete exsting record
+12:31:09,83 items INFO delete exsting record
+12:31:09,113 items INFO delete exsting record
+12:31:09,142 items INFO delete exsting record
+12:31:09,171 items INFO delete exsting record
+12:31:09,200 items INFO delete exsting record
+12:31:09,229 items INFO delete exsting record
+12:31:09,260 items INFO delete exsting record
+12:31:09,290 items INFO delete exsting record
+12:31:09,290 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+12:31:09,383 items INFO delete exsting record
+12:31:09,413 items INFO delete exsting record
+12:31:09,442 items INFO delete exsting record
+12:31:09,472 items INFO delete exsting record
+12:31:09,502 items INFO delete exsting record
+12:31:09,532 items INFO delete exsting record
+12:31:09,562 items INFO delete exsting record
+12:31:09,592 items INFO delete exsting record
+12:31:09,622 items INFO delete exsting record
+12:31:09,652 items INFO delete exsting record
+12:31:09,682 items INFO delete exsting record
+12:31:09,682 items INFO {'productName': 'Ventilators', 'availability': 410}
+20:13:09,345 items INFO {'_id': ObjectId('5f51852df442f9157f0d9cbb'), 'name': 'url'}
+20:13:09,345 items INFO {'_id': ObjectId('5f518574f442f9157f0d9cbc'), 'name': 'url'}
+20:13:09,346 items INFO {'_id': ObjectId('5f5185d1f442f9157f0d9cbd'), 'name': 'url'}
+20:13:09,372 items INFO {'_id': ObjectId('5f51852df442f9157f0d9cbb'), 'name': 'last_crawled'}
+20:13:09,373 items INFO {'_id': ObjectId('5f518574f442f9157f0d9cbc'), 'name': 'last_crawled'}
+20:13:09,373 items INFO {'_id': ObjectId('5f5185d1f442f9157f0d9cbd'), 'name': 'last_crawled'}
+20:13:09,418 items INFO {'_id': ObjectId('5f51852df442f9157f0d9cbb'), 'name': 'crawlafterseconds'}
+20:13:09,418 items INFO {'_id': ObjectId('5f518574f442f9157f0d9cbc'), 'name': 'crawlafterseconds'}
+20:13:09,418 items INFO {'_id': ObjectId('5f5185d1f442f9157f0d9cbd'), 'name': 'crawlafterseconds'}
+20:13:31,564 items INFO {'_id': ObjectId('5f51852df442f9157f0d9cbb'), 'name': 'url'}
+20:13:31,564 items INFO {'_id': ObjectId('5f518574f442f9157f0d9cbc'), 'name': 'url'}
+20:13:31,564 items INFO {'_id': ObjectId('5f5185d1f442f9157f0d9cbd'), 'name': 'url'}
+20:13:31,591 items INFO {'_id': ObjectId('5f51852df442f9157f0d9cbb'), 'name': 'last_crawled'}
+20:13:31,592 items INFO {'_id': ObjectId('5f518574f442f9157f0d9cbc'), 'name': 'last_crawled'}
+20:13:31,592 items INFO {'_id': ObjectId('5f5185d1f442f9157f0d9cbd'), 'name': 'last_crawled'}
+20:13:31,618 items INFO {'_id': ObjectId('5f51852df442f9157f0d9cbb'), 'name': 'crawlafterseconds'}
+20:13:31,619 items INFO {'_id': ObjectId('5f518574f442f9157f0d9cbc'), 'name': 'crawlafterseconds'}
+20:13:31,619 items INFO {'_id': ObjectId('5f5185d1f442f9157f0d9cbd'), 'name': 'crawlafterseconds'}
+20:14:49,368 items INFO <pymongo.cursor.Cursor object at 0x7fdab5afec10>
+20:18:21,552 items CRITICAL 'dict' object has no attribute 'value'
+20:19:06,747 items INFO https://www.rrpcanada.org/#/
+21:09:55,856 items INFO https://www.rrpcanada.org/#/
+21:09:55,884 items INFO 2020-09-02 23:00:00
+21:12:15,460 items INFO https://www.rrpcanada.org/#/
+21:12:15,490 items INFO 60
+21:12:15,533 items INFO 2020-09-02 23:00:00
+21:16:59,628 items INFO https://www.rrpcanada.org/#/
+21:16:59,656 items INFO 60
+21:16:59,683 items CRITICAL module 'datetime' has no attribute 'strptime'
+21:17:22,813 items INFO https://www.rrpcanada.org/#/
+21:17:22,841 items INFO 60
+21:17:22,874 items CRITICAL time data '2020-09-02 23:00:00' does not match format '%y-%m-%d %H:%M:%S'
+21:18:20,597 items INFO https://www.rrpcanada.org/#/
+21:18:20,624 items INFO 60
+21:18:20,652 items CRITICAL time data '2020-09-02 23:00:00' does not match format '%y-%m-%d %H:%M:%S'
+21:18:56,859 items INFO https://www.rrpcanada.org/#/
+21:18:56,887 items INFO 60
+21:18:56,918 items CRITICAL time data '2020-09-02 23:00:00' does not match format 'Y-%m-%d %H:%M:%S'
+21:19:07,708 items INFO https://www.rrpcanada.org/#/
+21:19:07,734 items INFO 60
+21:19:07,766 items INFO 2020-09-02 23:00:00
+21:20:01,170 items INFO https://www.rrpcanada.org/#/
+21:20:01,196 items INFO 60
+21:20:01,230 items INFO 1599102000.0
+21:20:01,230 items INFO 1599182401.230905
+21:23:34,863 items INFO https://www.rrpcanada.org/#/
+21:23:34,891 items INFO 60
+21:23:34,923 items CRITICAL 'float' object has no attribute 'total_seconds'
+21:24:11,619 items INFO https://www.rrpcanada.org/#/
+21:24:11,647 items INFO 60
+21:24:11,681 items INFO 80651.681881
+21:24:32,377 items INFO https://www.rrpcanada.org/#/
+21:24:32,407 items INFO 60
+21:24:32,439 items INFO 80672.439227
+21:31:30,479 items INFO https://www.rrpcanada.org/#/
+21:31:30,516 items INFO 60
+21:31:30,542 items CRITICAL strptime() argument 1 must be str, not int
+21:32:08,863 items INFO https://www.rrpcanada.org/#/
+21:32:08,889 items INFO 60
+21:32:08,917 items INFO run crwlae
+21:32:08,917 items CRITICAL filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping
+21:32:52,796 items INFO https://www.rrpcanada.org/#/
+21:32:52,844 items INFO 60
+21:32:52,903 items INFO run crwlae
+21:32:52,903 items CRITICAL filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping
+21:34:53,811 items INFO https://www.rrpcanada.org/#/
+21:34:53,839 items INFO 60
+21:34:53,867 items INFO run crwlae
+21:34:53,867 items CRITICAL filter must be an instance of dict, bson.son.SON, or any other type that inherits from collections.Mapping
+21:35:33,980 items INFO https://www.rrpcanada.org/#/
+21:35:34,16 items INFO 60
+21:35:34,47 items INFO run crwlae
+21:35:48,84 items INFO https://www.rrpcanada.org/#/
+21:35:48,112 items INFO 60
+21:35:48,140 items CRITICAL strptime() argument 1 must be str, not datetime.datetime
+21:36:14,162 items INFO https://www.rrpcanada.org/#/
+21:36:14,189 items INFO 60
+21:38:42,32 items INFO https://www.rrpcanada.org/#/
+21:38:42,60 items INFO 60
+21:38:42,88 items INFO running crawler
+21:40:06,484 items INFO https://www.rrpcanada.org/#/
+21:40:06,512 items INFO 60
+21:40:06,541 items INFO running crawler
+21:40:13,850 items INFO critical product list updated
+21:42:31,612 items INFO https://www.rrpcanada.org/#/
+21:42:31,639 items INFO 60
+21:42:31,667 items INFO running crawler
+21:42:39,846 items INFO critical product list updated
+21:42:39,973 items INFO delete exsting record
+21:42:39,999 items INFO delete exsting record
+21:42:40,27 items INFO delete exsting record
+21:42:40,56 items INFO delete exsting record
+21:42:40,89 items INFO delete exsting record
+21:42:40,114 items INFO delete exsting record
+21:42:40,141 items INFO delete exsting record
+21:42:40,167 items INFO delete exsting record
+21:42:40,199 items INFO delete exsting record
+21:42:40,268 items INFO delete exsting record
+21:42:40,297 items INFO delete exsting record
+21:42:40,333 items INFO delete exsting record
+21:42:40,333 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+21:42:40,438 items INFO delete exsting record
+21:42:40,464 items INFO delete exsting record
+21:42:40,492 items INFO delete exsting record
+21:42:40,518 items INFO delete exsting record
+21:42:40,575 items INFO delete exsting record
+21:42:40,603 items INFO delete exsting record
+21:42:40,633 items INFO delete exsting record
+21:42:40,660 items INFO delete exsting record
+21:42:40,689 items INFO delete exsting record
+21:42:40,716 items INFO delete exsting record
+21:42:40,742 items INFO delete exsting record
+21:42:40,768 items INFO delete exsting record
+21:42:40,796 items INFO delete exsting record
+21:42:40,796 items INFO {'productName': 'Disposable Gloves', 'availability': 64886093}
+21:42:40,890 items INFO delete exsting record
+21:42:40,918 items INFO delete exsting record
+21:42:40,944 items INFO delete exsting record
+21:42:40,974 items INFO delete exsting record
+21:42:41,0 items INFO delete exsting record
+21:42:41,27 items INFO delete exsting record
+21:42:41,57 items INFO delete exsting record
+21:42:41,85 items INFO delete exsting record
+21:42:41,114 items INFO delete exsting record
+21:42:41,141 items INFO delete exsting record
+21:42:41,167 items INFO delete exsting record
+21:42:41,203 items INFO delete exsting record
+21:42:41,231 items INFO delete exsting record
+21:42:41,267 items INFO delete exsting record
+21:42:41,267 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+21:42:41,350 items INFO delete exsting record
+21:42:41,376 items INFO delete exsting record
+21:42:41,403 items INFO delete exsting record
+21:42:41,428 items INFO delete exsting record
+21:42:41,455 items INFO delete exsting record
+21:42:41,482 items INFO delete exsting record
+21:42:41,517 items INFO delete exsting record
+21:42:41,549 items INFO delete exsting record
+21:42:41,607 items INFO delete exsting record
+21:42:41,634 items INFO delete exsting record
+21:42:41,660 items INFO delete exsting record
+21:42:41,687 items INFO delete exsting record
+21:42:41,717 items INFO delete exsting record
+21:42:41,747 items INFO delete exsting record
+21:42:41,776 items INFO delete exsting record
+21:42:41,776 items INFO {'productName': 'Respirators', 'availability': 22189173}
+21:42:41,886 items INFO delete exsting record
+21:42:41,914 items INFO delete exsting record
+21:42:41,941 items INFO delete exsting record
+21:42:41,976 items INFO delete exsting record
+21:42:42,2 items INFO delete exsting record
+21:42:42,27 items INFO delete exsting record
+21:42:42,54 items INFO delete exsting record
+21:42:42,81 items INFO delete exsting record
+21:42:42,107 items INFO delete exsting record
+21:42:42,138 items INFO delete exsting record
+21:42:42,165 items INFO delete exsting record
+21:42:42,191 items INFO delete exsting record
+21:42:42,219 items INFO delete exsting record
+21:42:42,246 items INFO delete exsting record
+21:42:42,292 items INFO delete exsting record
+21:42:42,320 items INFO delete exsting record
+21:42:42,320 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+21:42:42,399 items INFO delete exsting record
+21:42:42,427 items INFO delete exsting record
+21:42:42,459 items INFO delete exsting record
+21:42:42,489 items INFO delete exsting record
+21:42:42,518 items INFO delete exsting record
+21:42:42,553 items INFO delete exsting record
+21:42:42,580 items INFO delete exsting record
+21:42:42,606 items INFO delete exsting record
+21:42:42,635 items INFO delete exsting record
+21:42:42,661 items INFO delete exsting record
+21:42:42,693 items INFO delete exsting record
+21:42:42,719 items INFO delete exsting record
+21:42:42,746 items INFO delete exsting record
+21:42:42,785 items INFO delete exsting record
+21:42:42,814 items INFO delete exsting record
+21:42:42,840 items INFO delete exsting record
+21:42:42,868 items INFO delete exsting record
+21:42:42,869 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+21:42:42,950 items INFO delete exsting record
+21:42:42,977 items INFO delete exsting record
+21:42:43,6 items INFO delete exsting record
+21:42:43,33 items INFO delete exsting record
+21:42:43,61 items INFO delete exsting record
+21:42:43,89 items INFO delete exsting record
+21:42:43,115 items INFO delete exsting record
+21:42:43,142 items INFO delete exsting record
+21:42:43,168 items INFO delete exsting record
+21:42:43,195 items INFO delete exsting record
+21:42:43,221 items INFO delete exsting record
+21:42:43,247 items INFO delete exsting record
+21:42:43,274 items INFO delete exsting record
+21:42:43,300 items INFO delete exsting record
+21:42:43,328 items INFO delete exsting record
+21:42:43,357 items INFO delete exsting record
+21:42:43,391 items INFO delete exsting record
+21:42:43,420 items INFO delete exsting record
+21:42:43,420 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+21:42:43,529 items INFO delete exsting record
+21:42:43,558 items INFO delete exsting record
+21:42:43,585 items INFO delete exsting record
+21:42:43,613 items INFO delete exsting record
+21:42:43,639 items INFO delete exsting record
+21:42:43,666 items INFO delete exsting record
+21:42:43,692 items INFO delete exsting record
+21:42:43,725 items INFO delete exsting record
+21:42:43,753 items INFO delete exsting record
+21:42:43,781 items INFO delete exsting record
+21:42:43,808 items INFO delete exsting record
+21:42:43,835 items INFO delete exsting record
+21:42:43,861 items INFO delete exsting record
+21:42:43,889 items INFO delete exsting record
+21:42:43,918 items INFO delete exsting record
+21:42:43,945 items INFO delete exsting record
+21:42:43,972 items INFO delete exsting record
+21:42:43,999 items INFO delete exsting record
+21:42:44,30 items INFO delete exsting record
+21:42:44,30 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+21:42:44,113 items INFO delete exsting record
+21:42:44,140 items INFO delete exsting record
+21:42:44,166 items INFO delete exsting record
+21:42:44,194 items INFO delete exsting record
+21:42:44,220 items INFO delete exsting record
+21:42:44,264 items INFO delete exsting record
+21:42:44,290 items INFO delete exsting record
+21:42:44,317 items INFO delete exsting record
+21:42:44,346 items INFO delete exsting record
+21:42:44,390 items INFO delete exsting record
+21:42:44,418 items INFO delete exsting record
+21:42:44,444 items INFO delete exsting record
+21:42:44,479 items INFO delete exsting record
+21:42:44,506 items INFO delete exsting record
+21:42:44,544 items INFO delete exsting record
+21:42:44,571 items INFO delete exsting record
+21:42:44,607 items INFO delete exsting record
+21:42:44,635 items INFO delete exsting record
+21:42:44,676 items INFO delete exsting record
+21:42:44,703 items INFO delete exsting record
+21:42:44,703 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+21:42:44,807 items INFO delete exsting record
+21:42:44,835 items INFO delete exsting record
+21:42:44,867 items INFO delete exsting record
+21:42:44,893 items INFO delete exsting record
+21:42:44,934 items INFO delete exsting record
+21:42:44,962 items INFO delete exsting record
+21:42:44,988 items INFO delete exsting record
+21:42:45,23 items INFO delete exsting record
+21:42:45,50 items INFO delete exsting record
+21:42:45,78 items INFO delete exsting record
+21:42:45,105 items INFO delete exsting record
+21:42:45,132 items INFO delete exsting record
+21:42:45,160 items INFO delete exsting record
+21:42:45,187 items INFO delete exsting record
+21:42:45,214 items INFO delete exsting record
+21:42:45,240 items INFO delete exsting record
+21:42:45,288 items INFO delete exsting record
+21:42:45,316 items INFO delete exsting record
+21:42:45,344 items INFO delete exsting record
+21:42:45,371 items INFO delete exsting record
+21:42:45,397 items INFO delete exsting record
+21:42:45,397 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+21:42:45,489 items INFO delete exsting record
+21:42:45,518 items INFO delete exsting record
+21:42:45,547 items INFO delete exsting record
+21:42:45,586 items INFO delete exsting record
+21:42:45,620 items INFO delete exsting record
+21:42:45,646 items INFO delete exsting record
+21:42:45,673 items INFO delete exsting record
+21:42:45,700 items INFO delete exsting record
+21:42:45,727 items INFO delete exsting record
+21:42:45,753 items INFO delete exsting record
+21:42:45,782 items INFO delete exsting record
+21:42:45,809 items INFO delete exsting record
+21:42:45,837 items INFO delete exsting record
+21:42:45,866 items INFO delete exsting record
+21:42:45,893 items INFO delete exsting record
+21:42:45,920 items INFO delete exsting record
+21:42:45,949 items INFO delete exsting record
+21:42:45,976 items INFO delete exsting record
+21:42:46,4 items INFO delete exsting record
+21:42:46,45 items INFO delete exsting record
+21:42:46,88 items INFO delete exsting record
+21:42:46,115 items INFO delete exsting record
+21:42:46,115 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+21:42:46,198 items INFO delete exsting record
+21:42:46,225 items INFO delete exsting record
+21:42:46,251 items INFO delete exsting record
+21:42:46,278 items INFO delete exsting record
+21:42:46,313 items INFO delete exsting record
+21:42:46,340 items INFO delete exsting record
+21:42:46,366 items INFO delete exsting record
+21:42:46,392 items INFO delete exsting record
+21:42:46,418 items INFO delete exsting record
+21:42:46,444 items INFO delete exsting record
+21:42:46,473 items INFO delete exsting record
+21:42:46,521 items INFO delete exsting record
+21:42:46,548 items INFO delete exsting record
+21:42:46,575 items INFO delete exsting record
+21:42:46,602 items INFO delete exsting record
+21:42:46,630 items INFO delete exsting record
+21:42:46,657 items INFO delete exsting record
+21:42:46,684 items INFO delete exsting record
+21:42:46,711 items INFO delete exsting record
+21:42:46,737 items INFO delete exsting record
+21:42:46,763 items INFO delete exsting record
+21:42:46,789 items INFO delete exsting record
+21:42:46,815 items INFO delete exsting record
+21:42:46,816 items INFO {'productName': 'Ventilators', 'availability': 410}
+21:44:00,495 items INFO https://www.rrpcanada.org/#/
+21:44:00,536 items INFO 60
+21:44:00,579 items INFO running crawler
+21:44:08,31 items INFO critical product list updated
+21:44:08,158 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+21:44:08,337 items INFO {'productName': 'Disposable Gloves', 'availability': 64886093}
+21:44:08,416 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+21:44:08,501 items INFO {'productName': 'Respirators', 'availability': 22189173}
+21:44:08,583 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+21:44:08,689 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+21:44:08,827 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+21:44:08,893 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+21:44:08,959 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+21:44:09,373 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+21:44:09,446 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+21:44:09,518 items INFO {'productName': 'Ventilators', 'availability': 410}
+21:44:34,558 items INFO https://www.rrpcanada.org/#/
+21:44:34,584 items INFO 60
+21:44:51,908 items INFO https://www.rrpcanada.org/#/
+21:44:51,940 items INFO 60
+21:45:16,321 items INFO https://www.rrpcanada.org/#/
+21:45:16,351 items INFO 60
+21:45:16,378 items INFO running crawler
+21:45:24,72 items INFO critical product list updated
+21:45:24,188 items INFO delete exsting record
+21:45:24,226 items INFO delete exsting record
+21:45:24,256 items INFO delete exsting record
+21:45:24,256 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+21:45:24,355 items INFO delete exsting record
+21:45:24,386 items INFO delete exsting record
+21:45:24,418 items INFO delete exsting record
+21:45:24,418 items INFO {'productName': 'Disposable Gloves', 'availability': 64886093}
+21:45:24,516 items INFO delete exsting record
+21:45:24,550 items INFO delete exsting record
+21:45:24,582 items INFO delete exsting record
+21:45:24,582 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+21:45:24,673 items INFO delete exsting record
+21:45:24,710 items INFO delete exsting record
+21:45:24,741 items INFO delete exsting record
+21:45:24,741 items INFO {'productName': 'Respirators', 'availability': 22189173}
+21:45:24,845 items INFO delete exsting record
+21:45:24,877 items INFO delete exsting record
+21:45:24,909 items INFO delete exsting record
+21:45:24,909 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+21:45:25,54 items INFO delete exsting record
+21:45:25,85 items INFO delete exsting record
+21:45:25,116 items INFO delete exsting record
+21:45:25,116 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+21:45:25,232 items INFO delete exsting record
+21:45:25,262 items INFO delete exsting record
+21:45:25,292 items INFO delete exsting record
+21:45:25,292 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+21:45:25,379 items INFO delete exsting record
+21:45:25,415 items INFO delete exsting record
+21:45:25,446 items INFO delete exsting record
+21:45:25,447 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+21:45:25,545 items INFO delete exsting record
+21:45:25,578 items INFO delete exsting record
+21:45:25,610 items INFO delete exsting record
+21:45:25,610 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+21:45:25,698 items INFO delete exsting record
+21:45:25,737 items INFO delete exsting record
+21:45:25,777 items INFO delete exsting record
+21:45:25,777 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+21:45:25,866 items INFO delete exsting record
+21:45:25,912 items INFO delete exsting record
+21:45:25,963 items INFO delete exsting record
+21:45:25,964 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+21:45:26,104 items INFO delete exsting record
+21:45:26,137 items INFO delete exsting record
+21:45:26,169 items INFO delete exsting record
+21:45:26,170 items INFO {'productName': 'Ventilators', 'availability': 410}
+21:53:06,194 items INFO https://www.rrpcanada.org/#/
+21:53:06,222 items INFO 60
+21:53:06,250 items INFO running crawler
+21:53:18,773 items INFO critical product list updated
+21:53:18,827 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+21:53:18,828 items CRITICAL upsert must be True or False
+21:58:44,825 items INFO https://www.rrpcanada.org/#/
+21:58:44,859 items INFO 60
+21:58:44,889 items INFO running crawler
+21:58:52,371 items INFO critical product list updated
+21:58:52,466 items INFO delete existing records
+21:58:52,466 items INFO insert updated products/updated list of products
+21:58:52,467 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+21:58:52,501 items INFO {'productName': 'Disposable Gloves', 'availability': 64886093}
+21:58:52,530 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+21:58:52,563 items INFO {'productName': 'Respirators', 'availability': 22189173}
+21:58:52,594 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+21:58:52,627 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+21:58:52,659 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+21:58:52,690 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+21:58:52,723 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+21:58:52,754 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+21:58:52,784 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+21:58:52,817 items INFO {'productName': 'Ventilators', 'availability': 410}
+22:00:30,723 items INFO https://www.rrpcanada.org/#/
+22:00:30,752 items INFO 60
+22:00:30,778 items INFO running crawler
+22:00:38,359 items INFO critical product list updated
+22:00:38,465 items INFO delete existing records
+22:00:38,465 items INFO insert updated products/updated list of products
+22:00:38,465 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+22:00:38,499 items INFO {'productName': 'Disposable Gloves', 'availability': 64886093}
+22:00:38,532 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+22:00:38,565 items INFO {'productName': 'Respirators', 'availability': 22189173}
+22:00:38,602 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+22:00:38,634 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+22:00:38,674 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+22:00:38,705 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+22:00:38,740 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+22:00:38,772 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+22:00:38,804 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+22:00:38,835 items INFO {'productName': 'Ventilators', 'availability': 410}
+22:39:00,851 items INFO https://www.rrpcanada.org/#/
+22:39:00,879 items INFO 60
+22:39:00,906 items INFO running crawler
+22:39:08,246 items INFO critical product list updated
+22:39:08,339 items INFO delete existing records
+22:39:08,339 items INFO insert updated products/updated list of products
+22:39:08,339 items INFO {'productName': 'Surgical & Reusable Masks', 'availability': 376905263}
+22:39:08,373 items INFO {'productName': 'Disposable Gloves', 'availability': 64886093}
+22:39:08,406 items INFO {'productName': 'Gowns and Coveralls', 'availability': 40522145}
+22:39:08,439 items INFO {'productName': 'Respirators', 'availability': 22189173}
+22:39:08,472 items INFO {'productName': 'Surface Wipes', 'availability': 20649881}
+22:39:08,512 items INFO {'productName': 'Face Shields', 'availability': 16535736}
+22:39:08,544 items INFO {'productName': 'Hand Sanitizer', 'availability': 11152902}
+22:39:08,574 items INFO {'productName': 'Thermometers', 'availability': 8457998}
+22:39:08,604 items INFO {'productName': 'Testing Kits', 'availability': 2110815}
+22:39:08,636 items INFO {'productName': 'Surface Solutions', 'availability': 107462}
+22:39:08,667 items INFO {'productName': 'Protective Barriers', 'availability': 10858}
+22:39:08,727 items INFO {'productName': 'Ventilators', 'availability': 410}
